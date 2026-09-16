@@ -1,0 +1,3 @@
+GitOps Student Project
+Version 1
+Login feature implemented
